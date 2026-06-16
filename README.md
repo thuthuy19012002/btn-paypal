@@ -45,8 +45,7 @@ import {
 } from "@paypal/react-paypal-js/sdk-v6";
 import { useEffect } from "react";
 
-const clientId =
-  "AST9QrM5r_rDKWyF_DBR8RO3_8RVhotKNnOn5ycEnLdPq5DofmGDfpP6V-QxtO1RrvK4GNlehsJ4aHJB";
+const clientId = ".....";
 
 function PayPalSaveButtons() {
   useEffect(() => {
